@@ -23,7 +23,8 @@
         "drush\/drush": "^11 || ^12",
         "drush-ops/behat-drush-endpoint": "^9.4",
         "pantheon-systems/quicksilver-pushback": "^2.1",
-        "drupal/cas": "^2.0@beta"
+        "drupal/cas": "^2.0@beta",
+        "drupal/gin": "^3.0"
     },
     "require-dev": {
         "drupal\/core-dev": "^9.2",
@@ -44,7 +45,7 @@
     "conflict": {
         "drupal\/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "drupal-scaffold": {
