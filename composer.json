@@ -22,7 +22,8 @@
         "cweagans\/composer-patches": "^1.7",
         "drush\/drush": "^11 || ^12",
         "drush-ops/behat-drush-endpoint": "^9.4",
-        "pantheon-systems/quicksilver-pushback": "^2.1"
+        "pantheon-systems/quicksilver-pushback": "^2.1",
+        "drupal/cas": "^2.0@beta"
     },
     "require-dev": {
         "drupal\/core-dev": "^9.2",
