@@ -28,7 +28,7 @@ jobs:
     outputs:
       checkout_ref: ${{ steps.set_checkout_ref.outputs.checkout_ref }}
     steps:
-      - name: Set checkout ref
+      - name: Set checkout reference
         id: set_checkout_ref
         run: |
           if [ ${{ github.event_name }} == 'push' ]; then
