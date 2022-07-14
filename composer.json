@@ -23,7 +23,7 @@
         "drush\/drush": "^11 || ^12",
         "drush-ops/behat-drush-endpoint": "^9.4",
         "pantheon-systems/quicksilver-pushback": "^2.1",
-        "drupal/cas": "^2.0",
+        "drupal/cas": "^2.0@beta",
         "drupal/gin": "^3.0"
     },
     "require-dev": {
